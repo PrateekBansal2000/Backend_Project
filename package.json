@@ -1,0 +1,15 @@
+{
+  "name": "chaibackend_full_project",
+  "version": "1.0.0",
+  "description": "Creating a full professional backend project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "author": "Prateek Bansal",
+  "license": "ISC"
+}
